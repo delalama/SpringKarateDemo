@@ -7,10 +7,10 @@ It can be used throug cucumber and you will notice that you can save tons of "gl
 A simple example.
 We have a controller in "/api/greeting" that gives us this response:
 
-[](https://github.com/delalama/SpringKarateDemo/blob/master/docu/api.png)
+![](https://github.com/delalama/SpringKarateDemo/blob/master/docu/api.png)
 
 With only this feature we can do a basic test
 
-[](https://github.com/delalama/SpringKarateDemo/blob/master/docu/feature.png)
+![](https://github.com/delalama/SpringKarateDemo/blob/master/docu/feature.png)
 
 
