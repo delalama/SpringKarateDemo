@@ -13,4 +13,13 @@ With only this feature we can do a basic test
 
 ![](https://github.com/delalama/SpringKarateDemo/blob/master/docu/feature.png)
 
+# Controller with body
+
+Here we can test a post controller with parameter
+
+In this case we check that the parameterized greeting is literally as expected.
+![](https://github.com/delalama/SpringKarateDemo/blob/master/docu/feature2.png)
+
+
+![](https://github.com/delalama/SpringKarateDemo/blob/master/docu/post.png)
 
