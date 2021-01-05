@@ -25,7 +25,7 @@ In this case we check that the parameterized greeting is literally as expected.
 
 Karate also offers the possibility to visualize your executions , it looks like this:
 
-LINK [KARATE RESULTS](https://github.com/delalama/SpringKarateDemo/blob/master/docu/src.test.java.karate.greetingController.greeting.html)
+LINK [KARATE RESULTS](https://github.com/delalama/SpringKarateDemo/blob/master/docu/karateResults.png)
 
 you only need to add this to the pom:
 
@@ -40,3 +40,4 @@ you only need to add this to the pom:
 The result will be by default in your "target/surefire-reports" folder.
 
 
+It will be continued to cover further functionalities
